@@ -1,8 +1,9 @@
 package app
 
 import (
-	"VoGPro/GoPkg/pkg/mutex"
 	"fmt"
+
+	"github.com/VoGPro/GoPkg/pkg/mutex"
 )
 
 func RunApp() {
